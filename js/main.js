@@ -1,11 +1,10 @@
-/*  ---------------------------------------------------
-    Theme Name: Anime
-    Description: Anime video tamplate
-    Author: Colorib
-    Author URI: https://colorib.com/
-    Version: 1.0
-    Created: Colorib
----------------------------------------------------------  */
+/******************************************************************
+  Name: AnimeVerse
+  Description: Anime Streaming website
+  Author: AkashChaudhary14
+  Author URI: https://github.com/AkashChaudhary14
+  Version: 1.0
+******************************************************************/
 
 'use strict';
 
