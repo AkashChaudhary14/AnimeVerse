@@ -72,14 +72,11 @@ p {
 
 img {
 	max-width: 100%;
-	
+	margin-bottom: 0%;
 
 }
 
-.logo{
-	max-height: 80%;
-padding: 20px;
-}
+
 
 input:focus,
 select:focus,
@@ -324,7 +321,7 @@ ol {
 }
 
 .header__logo {
-	padding: 20px 0 17px;
+	padding: 20px 0 10px;
 }
 
 .header__logo a {
